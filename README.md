@@ -1,2 +1,2 @@
 # Object-Oriented-Programming-Notes
-CMPE160 Lecture Notes
+Notes I took during Intro to OOP
